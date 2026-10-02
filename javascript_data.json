@@ -1,0 +1,18 @@
+[
+    {
+        "id":11,
+        "title":"Annibale Colombo Bed",
+        "category":"furniture",
+        "price":1899.99,
+        "rating":4.77,
+        "stock":88
+    },
+    {
+        "id":14,
+        "title":"Knoll Saarinen Executive Conference Chair",
+        "category":"furniture",
+        "price":499.99,
+        "rating":4.88,
+        "stock":26
+    }
+]
